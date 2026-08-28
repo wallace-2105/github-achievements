@@ -4,6 +4,6 @@ Laboratório para praticar Git, GitHub, Pull Requests e Achievements.
 
 Este projeto foi criado para praticar Git e GitHub.
 
-## 🦈 Segunda missão
+## 🦈 Pull Shark
 
 Segundo Pull Request do laboratório.
